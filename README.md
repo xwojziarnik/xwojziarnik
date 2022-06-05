@@ -16,9 +16,6 @@
     <a href="https://www.linkedin.com/in/wojciech-ziarnik-23ba971a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="woj.ziarnik@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"
-    </a>
 </div>
 
 
