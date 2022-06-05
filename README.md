@@ -26,9 +26,10 @@
 - 📓 MongoDB, MySQL
 - 💻 HTML, CSS
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xwojziarnik&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xwojziarnik)  
 
-![Profile views](https://gpvc.arturio.dev/xwojziarnik)  
+![Profile views](https://gpvc.arturio.dev/xwojziarnik) 
+
+<img src="giphy.JPEG">
