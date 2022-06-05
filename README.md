@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Wojciech. Currently I live in Poznań, Poland. I'm a newbie in development, but I really felt in love with it. My first programming language which I've decided to learn is Python, bacause it's syntax is very simple and transparent, so it wouldn't be so hard for a newbie. Than I realized how many things can be written using Python. For now I want to gain experience as a software dev/backend dev using Django/Flask frameworks.
+
+![Wojciech's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwojziarnik&count_private=true)
+
 <!--
 **xwojziarnik/xwojziarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
