@@ -1,18 +1,34 @@
-# Hi there 👋, I am Wojciech Ziarnik
-#### Junior Python Developer Candidate
-My name is Wojciech. Currently I live in Poznań, Poland. I'm a newbie in development, but I really felt in love with it. My first programming language which I've decided to learn is Python, bacause it's syntax is very simple and transparent, so it wouldn't be so hard for a newbie. Than I realized how many things can be written using Python. For now I want to gain experience as a software dev/backend dev using Django/Flask frameworks.
+# Wojciech Ziarnik
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## Skills and experience
+#### Junior Python Developer Candidate
+
+### 🧑‍💻 About Me :
+
+- 🏙️ Currently I live in Poznań, Poland,
+- 👶 I'm a newbie in programming,
+- 🚲 🏀 In my free time I like riding a bike and play basketball,
+- ✉️ Reach me on:
+- <div id="badges">
+    <a href="https://www.linkedin.com/in/wojciech-ziarnik-23ba971a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="woj.ziarnik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"
+    </a>
+</div>
+
+
+## Skills
 
 - 🐍 Python
-- 🔌 Django, Flask
+- 🔌 Django, Django Rest Framework, Flask
 - 📓 MongoDB, MySQL
 - 💻 HTML, CSS
 
-- 🔭 I’m currently working on #100daysofcode 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xwojziarnik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wojciech-ziarnik-23ba971a1//)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xwojziarnik&show_icons=true)  
 
