@@ -10,7 +10,7 @@
 
 - 🏙️ Currently I live in Poznań, Poland,
 - 👶 I'm a newbie in programming,
-- 🚲 🏀 In my free time I like riding a bike and play basketball,
+- 🚲 🏀 In my free time I like to ride a bike and play basketball,
 - ✉️ Reach me on:
 <div id="badges">
     <a href="https://www.linkedin.com/in/wojciech-ziarnik-23ba971a1/">
@@ -22,9 +22,10 @@
 ## Skills
 
 - 🐍 Python
-- 🔌 Django, Django Rest Framework, Flask
-- 📓 MongoDB, MySQL
+- 🔌 Django, Django Rest Framework, Flask, Sanic
+- 📓 MongoDB, MySQL, SQLite, PostgreSQL
 - 💻 HTML, CSS
+- 🐋 Docker
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xwojziarnik&show_icons=true)  
 
