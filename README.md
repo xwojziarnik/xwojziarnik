@@ -22,7 +22,7 @@
 ## Skills
 
 - 🐍 Python
-- 🔌 Django, Django Rest Framework, Flask, Sanic
+- 🔌 Django, Django Rest Framework, Flask, Sanic, FastAPI
 - 📓 MongoDB, MySQL, SQLite, PostgreSQL
 - 💻 HTML, CSS
 - 🐋 Docker
