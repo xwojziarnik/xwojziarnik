@@ -6,7 +6,7 @@
 
 ### Junior Python Developer
 
-<a href>http://130.162.255.58:8000/
+<a href>https://wojciechziarnik.pl/
 
 ### 🧑‍💻 About Me :
 
