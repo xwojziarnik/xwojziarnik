@@ -6,8 +6,6 @@
 
 ### Junior Python Developer
 
-<a href>https://wojciechziarnik.pl/
-
 ### 🧑‍💻 About Me :
 
 - 🏙️ Currently I live in Poznań, Poland,
